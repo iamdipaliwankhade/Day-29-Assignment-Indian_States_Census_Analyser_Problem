@@ -1,7 +1,7 @@
 package com.analyser;
 
 public class CensusAnalyserException extends Exception {
-	  enum ExceptionType {
+	 enum ExceptionType {
 	        CENSUS_FILE_PROBLEM
 	    }
 
